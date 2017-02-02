@@ -3037,7 +3037,6 @@ containing a value of this type.
         public static final int exitUntilCollapsed=0x7f0c0017;
         public static final int expand_activities_button=0x7f0c005f;
         public static final int expanded_menu=0x7f0c0072;
-        public static final int fab=0x7f0c008f;
         public static final int fill=0x7f0c0030;
         public static final int fill_horizontal=0x7f0c0031;
         public static final int fill_vertical=0x7f0c0027;
@@ -3050,6 +3049,7 @@ containing a value of this type.
         public static final int icon_uri=0x7f0c0034;
         public static final int ifRoom=0x7f0c0047;
         public static final int image=0x7f0c0060;
+        public static final int include=0x7f0c008f;
         public static final int index_entity_types=0x7f0c0050;
         public static final int info=0x7f0c00ad;
         public static final int instant_message=0x7f0c0040;

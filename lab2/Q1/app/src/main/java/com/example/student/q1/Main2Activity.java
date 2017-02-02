@@ -84,11 +84,11 @@ public class Main2Activity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 String num1= t1.getText().toString();
-                int a = Integer.parseInt(num1);
+                float a = Float.parseFloat(num1);
                 String num2= t2.getText().toString();
-                int b = Integer.parseInt(num2);
-                int ab = a/b;
-                String res = Integer.toString(ab);
+                float b = Float.parseFloat(num2);
+                float ab = a/b;
+                String res = Float.toString(ab);
                 c=num1+"/"+num2+"="+res;
                 i.putExtra("Num1",c);
                 startActivity(i);
